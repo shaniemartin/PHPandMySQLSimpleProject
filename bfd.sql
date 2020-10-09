@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 INSERT INTO `users` (`id`, `firstName`, `lastName`, `email`, `message`) VALUES
 (16, 'Shanie', 'Martin', 'shaniemartin22@gmail.com', 'I hope you like my project page! '),
-(21, 'BigFoot', 'Digital', 'bigfootdigital@gmail.com', 'We love it, you\'re hired!!');
+(21, 'Potential', 'Employer', 'lookingforworkers@gmail.com', 'We love it, you\'re hired!!');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
